@@ -30,3 +30,14 @@
   - Differences between .NET Framework and .NET Core
   - Little programming
 
+## Day 2
+
+- Work on C# Beginners Course (Chapter 4 - 9)
+  - Repetition of Syntax and Structure
+  - Information about Visual Studio Shortcuts
+  - Start of Mini-Project Hangman
+- Conclusion 
+  - Course might be a bit too easy for my skill level
+  - Good repetition of key factors though
+  - As you can get through the course quickly, it does no harm to finish it and take note of things I have not heard before (or cannot remember)
+
