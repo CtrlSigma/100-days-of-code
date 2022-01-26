@@ -41,3 +41,12 @@
   - Good repetition of key factors though
   - As you can get through the course quickly, it does no harm to finish it and take note of things I have not heard before (or cannot remember)
 
+## Day 3
+
+- Work on C# Beginners Course (Chapter 10 to 15)
+- Nothing new, just the basics and work on the Hangman Mini-Project
+
+## Day 4 
+
+- Work on C# Beginners Course (Chapter 16 to 21)
+- Work on the Hangman Mini-Project 
