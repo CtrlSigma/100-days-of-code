@@ -50,3 +50,10 @@
 
 - Work on C# Beginners Course (Chapter 16 to 21)
 - Work on the Hangman Mini-Project 
+
+## Day 5
+
+- Finish C# Beginners Course (Chapter 22 - 25 + Bonus Chapter)
+- Finish Hangman Mini-Project
+  - Make adjustions more than the Course required :)
+- Looking for a new course to start on day 6
