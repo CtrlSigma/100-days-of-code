@@ -57,3 +57,19 @@
 - Finish Hangman Mini-Project
   - Make adjustions more than the Course required :)
 - Looking for a new course to start on day 6
+
+## Day 6
+
+- Started with *C# Advanced Topics* on Udemy
+- Chapter 1: Generics; I learned the following things (or took note of them)
+  - why generics are prefered over boxing to object (performance, of course)
+  - constraints are used when methods are implemented that do not work for all possible objects
+  - generic methods can exist in non-generic classes
+  - there are different types of constraints: interfaces, classes and their subclasses, value types, reference types and objects with default constructors
+- Chapter 2: Delegates
+  - I put a lot of focus on this topic because I had always trouble with these
+  - I coded alongside the example in the video to create delegates and try the standard .NET framework delegates
+  - Other learnings:
+    - what are delegates (references on how to call methods or method groups) and what are they useful for (e. g. frameworks)
+    - the .NET framework already includes the Action and Func delegate
+    - prefer Delegates over Interfaces if the caller does not need access to other properties/methods or for eventing design patterns
