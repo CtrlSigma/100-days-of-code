@@ -73,3 +73,11 @@
     - what are delegates (references on how to call methods or method groups) and what are they useful for (e. g. frameworks)
     - the .NET framework already includes the Action and Func delegate
     - prefer Delegates over Interfaces if the caller does not need access to other properties/methods or for eventing design patterns
+
+## Day 7
+
+- Chapter 3: Lambda Expressions
+  - Basic repetition of how Lambda Expressions work; not a lot of new or difficult things
+- Chapter 4: Events and Delegates
+  - This topic was very interesting. The instructor put a lot of effort into explaining how events work behind today's EventHandler.
+  - Started out by implementing an event handler with a delegate and event instead of using the .NET framework EventHandler delegate right away
