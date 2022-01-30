@@ -81,3 +81,10 @@
 - Chapter 4: Events and Delegates
   - This topic was very interesting. The instructor put a lot of effort into explaining how events work behind today's EventHandler.
   - Started out by implementing an event handler with a delegate and event instead of using the .NET framework EventHandler delegate right away
+
+## Day 8
+- Chapter 5: Extension Methods
+  - How to use and when to use
+- Chapter 6: LINQ
+  - Combine LINQ with Lambda Expressions
+  - Where LINQ can be used
