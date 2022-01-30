@@ -82,9 +82,18 @@
   - This topic was very interesting. The instructor put a lot of effort into explaining how events work behind today's EventHandler.
   - Started out by implementing an event handler with a delegate and event instead of using the .NET framework EventHandler delegate right away
 
+## Week 1 Recap
+
+- It's great to take an hour of each day to repeat and enhance my knowledge of C#. I'm consistent with the one hour per day.
+- Sometimes it's difficult to squeeze the hour in. I often find myself only doing it right before bed, which I want to improve in week 2.
+- I repeated a lot of knowledge this week but also learned new details that I wasn't aware of or had forgotten (like how events work at the basis or how delegates actually work ...) 
+- I want to find a project soon that maybe I could work on on the weekends parallel to the courses or latest after I'm done with the courses I want to do. But I don't want to start the projects only in the end, so would like to start earlier and build the project upon things I learn/repeat.
+
 ## Day 8
 - Chapter 5: Extension Methods
   - How to use and when to use
 - Chapter 6: LINQ
   - Combine LINQ with Lambda Expressions
   - Where LINQ can be used
+- Coding Examples
+- Brainstorming for a C# project to do within the 100 days
