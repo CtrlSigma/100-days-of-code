@@ -97,3 +97,14 @@
   - Where LINQ can be used
 - Coding Examples
 - Brainstorming for a C# project to do within the 100 days
+
+## Day 9
+- Chapter 7: Nullable Types
+  - basically repetition
+- Chapter 8: Dynamic
+  - super interesting as I have never used dynamic types before
+  - the type of a dynamic variable can only be changed by assignment or if implicit conversion is possible
+- Chapter 9: Exception Handling
+  - catch order: from most to least specific (so catch(Exception ex) is always last)
+  - the finally block can be replaced if "using" is used
+  - always try to wrap exceptions, so the user only sees relevant information; only the people who are fixing the errors should see the full stack trace
